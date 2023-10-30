@@ -21,6 +21,7 @@ The Netflix dashboard project improved data analysis efficiency, reduced manual 
 
 <img width="960" alt="two" src="https://github.com/suryatejaperla/EXCEL-DATA-ANALYTICS-/assets/137073606/16e29a9e-d185-4cca-8d50-232aeecec5ad">
 
+<img width="960" alt="one" src="https://github.com/suryatejaperla/EXCEL-DATA-ANALYTICS-/assets/137073606/4325277c-1983-416e-a30a-91d8bdbc14c5">
 
 
 
